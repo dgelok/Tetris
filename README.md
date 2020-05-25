@@ -41,6 +41,6 @@ https://youtu.be/rAUn1Lom6dw
 - Bug: some lines clear with one piece missing?
 - Bug: every time pause is hit, the upcoming piece resets/respawns
 - Design: improve color scheme
-- Design: add grid to <div> elements
+- Design: add grid to \<div\> elements
 - Design: center, make more visually appealing 
 - Design: add shadow to tetrominos 
